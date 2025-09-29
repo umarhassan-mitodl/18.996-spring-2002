@@ -41,6 +41,7 @@
     "website": "18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002"
   },
   "course_title": "Topics in Theoretical Computer Science : Internet Research Problems",
+  "hide_download": true,
   "course_description": "We will discuss numerous research problems that are related to the internet. Sample topics include: routing algorithms such as BGP, communication protocols such as TCP, algorithms for intelligently selecting a resource in the face of uncertainty, bandwidth sensing tools, load balancing algorithms, streaming protocols, determining the structure of the internet, cost optimization, DNS-related problems, visualization, and large-scale data processing. The seminar is intended for students who are ready to work on challenging research problems. Each lecture will discuss:\n\n*   methods used today\n*   issues and problems\n*   formulation of concrete problems\n*   potential new lines of research\n\nA modest amount of background information will be provided so that the importance and context of the problems can be understood. No previous study of the internet is required, but experience with algorithms and/or theoretical computer science at the graduate/research level is needed.\n",
   "department_numbers": [
     "18"
@@ -51,6 +52,7 @@
     "content": "1e31848a-bbaf-7823-c39f-002dba65ce8d",
     "website": "18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes"
   ],
