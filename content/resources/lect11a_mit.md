@@ -4,8 +4,6 @@ description: ''
 file: /courses/18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002/37e077dffd229df62848ff766801cbb2_lect11a_mit.pdf
 file_size: 53835
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

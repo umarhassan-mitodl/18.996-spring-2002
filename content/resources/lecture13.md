@@ -4,8 +4,6 @@ description: ''
 file: /courses/18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002/0ad09dd139b9d1c0928cde9a4c544af1_lecture13.pdf
 file_size: 246346
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
